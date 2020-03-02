@@ -1,8 +1,8 @@
 # 김종성
 
-연 락 처 : 010-4449-1116
-메    일 : pcx@kakao.com
-깃 허 브 : github.com/kimmari10
+* 연 락 처 : 010-4449-1116
+* 메    일 : pcx@kakao.com
+* 깃 허 브 : github.com/kimmari10
 
 # 스킬
 ### Backend
