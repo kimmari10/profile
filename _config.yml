@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: [Kim jong-sung]
 description: 
 github:
-  is_project_page: true
+  is_project_page: false
