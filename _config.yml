@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: [Kim jong-sung]
+logo: "logo.jpg"
 description: 
 github:
   is_project_page: false
